@@ -1,0 +1,24 @@
+# Maven specific
+/target/
+/.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Compiled Java classes
+*.class
+
+# Maven lock file
+maven.lock
+
+# Logs
+*.log
+
+# Dependency directories
+/lib/
